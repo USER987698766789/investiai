@@ -1,4 +1,4 @@
-from ia_core
+from ia_core 
 import pegar_dados_crypto, analisar_oportunidades
 
 st.set_page_config(page_title="IA de Investimentos", layout="centered")
