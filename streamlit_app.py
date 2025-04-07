@@ -1,5 +1,5 @@
-import streamlit as st
-from ia_core import pegar_dados_crypto, analisar_oportunidades
+from ia_core
+import pegar_dados_crypto, analisar_oportunidades
 
 st.set_page_config(page_title="IA de Investimentos", layout="centered")
 st.title("IA para Análise de Cripto e Ações")
